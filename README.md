@@ -1,2 +1,1 @@
-# SDS_project-repo
-Repository for the Statistics for Data Science project.
+# Statistics for Data Science project
